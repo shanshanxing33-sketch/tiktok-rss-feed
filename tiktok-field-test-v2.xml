@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0">
+  <channel>
+    <title>TikTok Client Feed Field Test</title>
+    <link>https://www.tiktok.com/</link>
+    <description>Testing TikTok fields through RSS</description>
+    <item>
+      <title>https://www.tiktok.com/@momarsyad.yusuf/video/7656781568459033876</title>
+      <link>https://www.tiktok.com/@momarsyad.yusuf/video/7656781568459033876</link>
+      <guid isPermaLink="false">tiktok:7656781568459033876</guid>
+      <author>Ibunya Arsyad</author>
+      <pubDate>Mon, 29 Jun 2026 19:43:08 +0700</pubDate>
+      <description>
+CLIENT_PLATFORM:TIKTOK
+CLIENT_AUTHOR:Ibunya Arsyad
+CLIENT_LANGUAGE:印尼语
+CLIENT_COUNTRY:印度尼西亚
+CLIENT_ENGAGEMENT:1
+
+
+Original URL:
+https://www.tiktok.com/@momarsyad.yusuf/video/7656781568459033876
+
+
+Author:
+Ibunya Arsyad
+
+
+Language:
+印尼语
+
+
+Country:
+印度尼西亚
+
+
+Engagement:
+1
+</description>
+    </item>
+  </channel>
+</rss>
