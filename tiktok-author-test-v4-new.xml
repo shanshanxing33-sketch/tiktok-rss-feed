@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>TikTok Author Mapping Test v4</title>
+    <link>https://www.tiktok.com/</link>
+    <description>TikTok RSS test using Dublin Core dc:creator</description>
+    <language>id</language>
+    <item>
+      <title>Keunggulan gizi makro alami hanya bisa didapatkan dari pengolahan bahan baku yang minim rekayasa industri. Pastikan Moms selalu cek komposisi susu segar sebelum membeli susu formula. AceKid terbuat da...</title>
+      <link>https://www.tiktok.com/@platformkesuksesan/video/7664515105295453461</link>
+      <guid isPermaLink="false">author-poc-v4:tiktok:7664515105295453461</guid>
+      <dc:creator>Platform Kesuksesan</dc:creator>
+      <pubDate>Mon, 20 Jul 2026 15:53:14 +0700</pubDate>
+      <category>cekkomposisisususegar</category>
+      <category>acekidterbuatdarinaturalwholemilk</category>
+      <category>acekidpertamadiindonesia</category>
+      <category>onestepfreshfromnaturetoacekid</category>
+      <category>susucocokacekid</category>
+      <description>CLIENT_PLATFORM:TIKTOK
+CLIENT_ITEM_ID:7664515105295453461
+CLIENT_AUTHOR:Platform Kesuksesan
+CLIENT_LANGUAGE:印尼语
+CLIENT_COUNTRY:印度尼西亚
+CLIENT_ENGAGEMENT:1
+CLIENT_LIKES:0
+CLIENT_COMMENTS:0
+CLIENT_SHARES:1
+CLIENT_VIEWS:1
+CLIENT_SAVES:0
+CLIENT_FOLLOWERS:14691
+CLIENT_FOLLOWERS_AT_POST:14691
+
+CONTENT:
+Keunggulan gizi makro alami hanya bisa didapatkan dari pengolahan bahan baku yang minim rekayasa industri. Pastikan Moms selalu cek komposisi susu segar sebelum membeli susu formula. AceKid terbuat dari susu sapi segar asli untuk anak usia 1-3 tahun. #CekKomposisiSusuSegar #AceKidTerbuatDariNaturalWholeMilk #AceKidPertamaDiIndonesia #OneStepFreshFromNatureToAceKid #SusuCocokAceKid
+
+TOPICS:
+#cekkomposisisususegar #acekidterbuatdarinaturalwholemilk #acekidpertamadiindonesia #onestepfreshfromnaturetoacekid #susucocokacekid
+
+AUTHOR:
+Platform Kesuksesan
+
+AUTHOR PROFILE:
+https://www.tiktok.com/@platformkesuksesan
+
+LANGUAGE:
+印尼语
+
+COUNTRY:
+印度尼西亚
+
+USER LOCATION:
+印度尼西亚
+
+ENGAGEMENT:
+1
+
+LIKES:
+0
+
+COMMENTS:
+0
+
+SHARES:
+1
+
+VIEWS:
+1
+
+SAVES:
+0
+
+FOLLOWERS:
+14691
+
+FOLLOWERS AT POST:
+14691
+
+ORIGINAL TIKTOK:
+https://www.tiktok.com/@platformkesuksesan/video/7664515105295453461</description>
+    </item>
+  </channel>
+</rss>
