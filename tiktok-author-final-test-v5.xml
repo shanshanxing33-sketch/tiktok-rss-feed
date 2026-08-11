@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0">
+  <channel>
+    <title>TikTok Author Final Test v5</title>
+    <link>https://www.tiktok.com/</link>
+    <description>Final controlled test for RSS 2.0 author mapping</description>
+    <language>id</language>
+    <item>
+      <title>Membalas @Ulrica 🪼 Pantes lariss bgt krn emg sebagus itu buat anak umur 1-3th loh bund😍@AceKid Indonesia 👍🏻 1. Diformulasikan tanpa tambahan gula (seperti sukrosa) sehingga mencegah kelebihan asupan g...</title>
+      <link>https://www.tiktok.com/@afni_psb/video/7659306937728666888</link>
+      <guid isPermaLink="false">author-final-v5:tiktok:7659306937728666888</guid>
+      <author>rss-author-test@example.com (Afni Pasaribu)</author>
+      <pubDate>Mon, 06 Jul 2026 15:02:54 +0700</pubDate>
+      <category>acekid</category>
+      <category>susuacekid</category>
+      <category>susuformula</category>
+      <category>susupertumbuhananak</category>
+      <category>fyp</category>
+      <description>CLIENT_PLATFORM:TIKTOK
+CLIENT_AUTHOR:Afni Pasaribu
+CLIENT_LANGUAGE:印尼语
+CLIENT_COUNTRY:印度尼西亚
+
+CONTENT:
+Membalas @Ulrica 🪼 Pantes lariss bgt krn emg sebagus itu buat anak umur 1-3th loh bund😍@AceKid Indonesia 👍🏻 1. Diformulasikan tanpa tambahan gula (seperti sukrosa) sehingga mencegah kelebihan asupan gula dan hanya mengandalkan sumber energi alami dari laktosa susu segar.✅ 2. Mendukung Pertumbuhan Fisik: Kaya akan protein, kalsium, dan vitamin D yang sangat penting untuk pembentukan tulang, gigi, dan pertumbuhan massa otot anak.✅ 3. ⁠Lebih Mudah Dicerna: Berbahan dasar whole milk segar alami sehingga lebih nyaman di perut dan dapat membantu memperbaiki nafsu makan.✅ 4. ⁠Nutrisi Alami Terjaga: Menggunakan proses One Step Fresh dan traceable milk source (dapat dilacak menggunakan kode QR di kemasan), memastikan kualitas bahan tetap terjaga dari alam ke dalam susu formula.✅ #acekid #susuacekid #susuformula #susupertumbuhananak #fyp
+
+TOPICS:
+#acekid #susuacekid #susuformula #susupertumbuhananak #fyp
+
+AUTHOR:
+Afni Pasaribu
+
+LANGUAGE:
+印尼语
+
+COUNTRY:
+印度尼西亚
+
+ORIGINAL TIKTOK:
+https://www.tiktok.com/@afni_psb/video/7659306937728666888</description>
+    </item>
+  </channel>
+</rss>
